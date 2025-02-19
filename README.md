@@ -18,12 +18,13 @@ Minha jornada na area programação e segurança começou durante a graduação,
 <div align="center">
 
 ![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white) &nbsp;
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)
+![UNIFI](https://img.shields.io/badge/UNIFI-%230075FF.svg?style=flat&logo=unifi&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Fortinet](https://img.shields.io/badge/Fortinet-%23EE3124.svg?style=flat&logo=fortinet&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white) &nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![UNIFI](https://img.shields.io/badge/UNIFI-%230075FF.svg?style=flat&logo=unifi&logoColor=white)
+
 
 </div>
 

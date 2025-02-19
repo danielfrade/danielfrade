@@ -2,7 +2,7 @@
 
 Tenho 33 anos, moro em Belo Horizonte e sou formado em Ciência da Computação. 
 
-Minha experiência inclui trabalhos com tecnologias como **Fortinet**, **Microsoft** , **Unifi** **Powershell**, onde pude desenvolver habilidades sólidas em infraestrutura de redes, segurança cibernética e soluções de conectividade.
+Minha experiência inclui trabalhos com tecnologias como **Fortinet**, **Microsoft** , **Unifi** , **Powershell**, onde pude desenvolver habilidades sólidas em infraestrutura de redes, segurança cibernética e soluções de conectividade.
 
 Minha jornada na area programação e segurança começou durante a graduação, onde tive meu primeiro contato com linguagens como **C**, **Java**. Desde então, tenho me dedicado ao desenvolvimento de soluções tecnológicas, com foco em **análise de dados** e **segurança**.
 

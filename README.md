@@ -2,12 +2,12 @@
 
 Tenho 33 anos, moro em Belo Horizonte e sou formado em Ciência da Computação. 
 
-Minha experiência inclui trabalhos com tecnologias como **Fortinet**, **Microsoft** e **Unifi**, onde pude desenvolver habilidades sólidas em infraestrutura de redes, segurança cibernética e soluções de conectividade.
+Minha experiência inclui trabalhos com tecnologias como **Fortinet**, **Microsoft** , **Unifi** **Powershell**, onde pude desenvolver habilidades sólidas em infraestrutura de redes, segurança cibernética e soluções de conectividade.
 
-Minha jornada na area programação e segurança começou durante a graduação, onde tive meu primeiro contato com linguagens como **C**, **Java**. Desde então, tenho me dedicado ao desenvolvimento de soluções tecnológicas, com foco em **engenharia de software** e **análise de dados** e **segurança**.
+Minha jornada na area programação e segurança começou durante a graduação, onde tive meu primeiro contato com linguagens como **C**, **Java**. Desde então, tenho me dedicado ao desenvolvimento de soluções tecnológicas, com foco em **análise de dados** e **segurança**.
 
 > "Bonito é melhor que feio. Explícito é melhor que implícito. Simples é melhor que complexo. Complexo é melhor que complicado..."
-> 
+> "Si vis pacem para bellum.."
 
 # :man_beard: Bio
 
@@ -17,13 +17,13 @@ Minha jornada na area programação e segurança começou durante a graduação,
 
 <div align="center">
 
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white) &nbsp;
+![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white) &nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Fortinet](https://img.shields.io/badge/Fortinet-%23EE3124.svg?style=flat&logo=fortinet&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white) &nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
+![UNIFI](https://img.shields.io/badge/UNIFI-%230075FF.svg?style=flat&logo=unifi&logoColor=white)
 
 </div>
 
@@ -33,8 +33,8 @@ Minha jornada na area programação e segurança começou durante a graduação,
 Stack:
 
 - Sistema Operacional -> Kali | Windows
-- Linguagens -> Python | SQL (MySQL) | Java | C
-- Nuvem -> Amazon Web Service (AWS) | Microsoft Azure
+- Linguagens -> Java | C
+- Nuvem ->  Microsoft Azure
 - BI ->  Microsoft Power BI
 - Segurança -> Fortinet | Bitdefender
 - Containers -> Docker

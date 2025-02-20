@@ -60,4 +60,12 @@ $~~~$ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&
 
 </div>
 
-## Fique bem... ❤️
+
+
+## <p align="center">Feito por Daniel Vocurca Frade</p>
+
+
+
+
+
+

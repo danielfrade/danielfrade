@@ -56,7 +56,7 @@ Stack:
 <div align="center">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vocurca "Daniel Vocurca Frade")
-$~~~$ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:danielfrade@gmail.com "danielfrade@gmail.com")
+$~~~$ [![Proton](https://img.shields.io/badge/Proton-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:vocurca@pm.me "vocurca@pm.me")
 
 </div>
 

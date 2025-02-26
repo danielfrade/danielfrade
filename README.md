@@ -48,9 +48,9 @@ Stack:
 
 # 💻 Portfolio
 
-1. Projeto de Automação de AD: [Automação de Active Directory](https://github.com/danielfrade/ad/).
+1. Projeto de: [Automação de Active Directory](https://github.com/danielfrade/ad/).
 
-2. Projeto de Otimização Windows: [Otimização Windows](https://github.com/danielfrade/windows/).
+2. Projeto de: [Otimização Windows](https://github.com/danielfrade/windows/).
 
 
 # :iphone: Contato

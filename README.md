@@ -51,6 +51,8 @@ Stack:
 1. Projeto de: [Automação de Active Directory](https://github.com/danielfrade/ad/).
 
 2. Projeto de: [Otimização Windows](https://github.com/danielfrade/windows/).
+   
+3. Projeto de: [Gestão Ativos](https://github.com/danielfrade/gestaoativo/).
 
 
 # :iphone: Contato

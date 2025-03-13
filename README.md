@@ -54,6 +54,7 @@ Stack:
    
 3. Projeto de: [Gestão Ativos](https://github.com/danielfrade/gestaoativo/).
 
+4. Projeto de: [Relatório de Gerenciamento Inteligente de Recursos](https://github.com/danielfrade/resources/).
 
 # :iphone: Contato
 

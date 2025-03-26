@@ -2,7 +2,7 @@
 
 33 anos, apaixonado por segurança cibernética e tecnologia.
 
-Minha trajetória combina **infraestrutura de redes**, **segurança** e **desenvolvimento**, com experiência em **Fortinet**, **Microsoft**, **Unifi** e **Powershell**. Tudo começou na graduação em Ciência da Computação, com **C** e **Java**, e hoje foco em **análise de dados** e **soluções seguras**.
+Minha trajetória combina, **analista de suporte**, **infraestrutura de redes**, **segurança**, com experiência em **Fortinet**, **Microsoft**, **Unifi** e **Powershell**. Tudo começou na graduação em Ciência da Computação, com **C** e **Java**, e hoje foco em **análise de dados** e **soluções seguras**.
 
 > "Bonito é melhor que feio. Simples é melhor que complexo. Si vis pacem, para bellum."
 

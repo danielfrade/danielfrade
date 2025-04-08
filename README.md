@@ -29,7 +29,7 @@ Minha trajetória combina, **analista de suporte**, **infraestrutura de redes**,
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vocurca"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:vocurca@pm.me"><img src="https://img.shields.io/badge/Proton-8B89CC?style=flat&logo=protonmail&logoColor=white" alt="ProtonMail"></a>
+  <a href="mailto:invisible.badger.vait@mask.me"><img src="https://img.shields.io/badge/Proton-8B89CC?style=flat&logo=protonmail&logoColor=white" alt="ProtonMail"></a>
 </div>
 
 <p align="center">Feito por Daniel Vocurca Frade</p>

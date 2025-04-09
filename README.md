@@ -24,6 +24,7 @@ Minha trajetória combina, **analista de suporte**, **infraestrutura de redes**,
 2. [Otimização Windows](https://github.com/danielfrade/windows)  
 3. [Gestão de Ativos](https://github.com/danielfrade/gestaoativo)  
 4. [Relatório Inteligente de Recursos](https://github.com/danielfrade/resource)
+5. [Coy Menu](https://github.com/danielfrade/coymenu)
 
 ## :iphone: Contato
 

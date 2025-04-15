@@ -87,5 +87,5 @@ Explore meu portfólio de soluções práticas e inovadoras:
 
 <div align="center">
   <p>✨ <em>Construindo o futuro, trazendo soluções</em> ✨</p>
-  <p><strong>Daniel Vocurca Frade</strong> | ~ 2025</p>
+  <p><strong>Daniel Vocurca Frade</strong> ~ 2025</p>
 </div>

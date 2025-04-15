@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou um profissional de 33 anos com paixão por **cibersegurança**, **infraestrutura de redes** e **tecnologia inovadora**. Minha jornada começou com uma graduação em **Ciência da Computação**, onde mergulhei em **C** e **Java**, e evoluiu para uma carreira sólida como **analista de suporte**, especialista em **segurança de TI** e **análise de dados**.
+Sou um profissional de 33 anos apaixonado por **cibersegurança**, **infraestrutura de redes** e **tecnologias inovadoras**. Minha trajetória começou como técnico e ganhou força com uma graduação em **Ciência da Computação**, onde me aprofundei no universo da TI. Evoluí para uma carreira sólida como **analista de suporte** e **especialista em segurança de TI**, enfrentando desafios com soluções criativas.
 
 Hoje, combino experiência prática com ferramentas como **Fortinet**, **Microsoft Azure**, **Unifi** e **PowerShell** para criar soluções seguras, escaláveis e eficientes. Minha missão é simplificar o complexo, proteger o essencial e impulsionar a inovação.
 
@@ -33,7 +33,6 @@ Hoje, combino experiência prática com ferramentas como **Fortinet**, **Microso
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
 ![ADVPL](https://img.shields.io/badge/ADVPL-003087?style=flat-square&logo=totvs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=yellow)
 
 ### 🌱 Em Aprimoramento
 - **Cibersegurança Avançada** com Fortinet e Microsoft

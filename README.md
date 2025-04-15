@@ -12,7 +12,7 @@ Sou um profissional de 33 anos com paixão por **cibersegurança**, **infraestru
 
 Hoje, combino experiência prática com ferramentas como **Fortinet**, **Microsoft Azure**, **Unifi** e **PowerShell** para criar soluções seguras, escaláveis e eficientes. Minha missão é simplificar o complexo, proteger o essencial e impulsionar a inovação.
 
-> *"Bonito é melhor que feio. Simples é melhor que complexo. Si vis pacem, para bellum."*
+> *"Si vis pacem, para bellum."*
 
 ---
 
@@ -86,6 +86,6 @@ Explore meu portfólio de soluções práticas e inovadoras:
 ---
 
 <div align="center">
-  <p>✨ <em>Construindo o futuro, um código seguro de cada vez.</em> ✨</p>
-  <p><strong>Daniel Vocurca Frade</strong> | 2025</p>
+  <p>✨ <em>Construindo o futuro, trazendo soluções</em> ✨</p>
+  <p><strong>Daniel Vocurca Frade</strong> | ~ 2025</p>
 </div>

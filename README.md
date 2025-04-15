@@ -19,8 +19,8 @@ Hoje, combino experiência prática com ferramentas como **Fortinet**, **Microso
 ## 🛠 Tech Stack
 
 ### 🖥️ Sistemas Operacionais
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
 ### ☁️ Nuvem
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -30,10 +30,10 @@ Hoje, combino experiência prática com ferramentas como **Fortinet**, **Microso
 ![Bitdefender](https://img.shields.io/badge/Bitdefender-00A1E0?style=flat-square&logo=bitdefender&logoColor=white)
 
 ### 🛠️ Ferramentas e Linguagens
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
+![ADVPL](https://img.shields.io/badge/ADVPL-003087?style=flat-square&logo=totvs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=yellow)
 
 ### 🌱 Em Aprimoramento
 - **Cibersegurança Avançada** com Fortinet e Microsoft

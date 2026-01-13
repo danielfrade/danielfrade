@@ -76,14 +76,6 @@ Projetos focados em **automação**, **segurança**, **infraestrutura** e **efic
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielfrade&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-
----
-
 ## 📬 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vocurca)

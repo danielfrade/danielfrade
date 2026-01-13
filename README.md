@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👨‍💻 Daniel Vocurca Frade</h1>
+  <h1>👨‍💻</h1>
   <p><em>Analista de Suporte | Infraestrutura de Redes | Apaixonado por Cibersegurança</em></p>
   <img src="https://img.shields.io/badge/-Explorando%20o%20futuro%20da%20tecnologia-1E1E2E?style=flat-square" alt="Tagline">
 </div>

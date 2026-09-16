@@ -1,84 +1,336 @@
+<div align="center">
+
 # 👨‍💻 Daniel Vocurca Frade
 
-**Analista de Suporte • Infraestrutura de Redes • Cibersegurança**
+### Infrastructure • Networks • Cybersecurity • Automation
 
-![Explorando o futuro da tecnologia](https://img.shields.io/badge/Explorando%20o%20futuro%20da%20tecnologia-1E1E2E?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Vocurca%20Frade-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vocurca)
+[![GitHub](https://img.shields.io/badge/GitHub-danielfrade-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/danielfrade)
+[![ProtonMail](https://img.shields.io/badge/Email-vocurca%40pm.me-6D4AFF?style=for-the-badge\&logo=protonmail\&logoColor=white)](mailto:vocurca@pm.me)
 
----
+<br>
 
-## 🚀 Sobre Mim
+> **Infrastructure built with reliability. Security by design. Automation whenever possible.**
 
-Sou um profissional de **Tecnologia da Informação**, com **33 anos**, movido por desafios e apaixonado por **cibersegurança**, **infraestrutura de redes** e **automação**. Minha trajetória começou na área técnica e ganhou maturidade com a graduação em **Ciência da Computação**, onde consolidei uma base sólida em sistemas, redes e segurança da informação.
-
-Atualmente, atuo como **Analista de Suporte e Infraestrutura**, com foco em **segurança de TI**, **ambientes corporativos** e **otimização de sistemas**. Possuo experiência prática na implementação, administração e automação de soluções utilizando **Fortinet**, **Microsoft Azure**, **Unifi**, **PowerShell** e ferramentas avançadas de proteção de endpoints.
-
-Minha filosofia profissional é clara:
-
-- 🔹 Simplificar o complexo  
-- 🔹 Proteger o que é crítico  
-- 🔹 Automatizar sempre que possível  
-- 🔹 Entregar soluções **seguras**, **eficientes** e **escaláveis**
-
-> *“Si vis pacem, para bellum.”*  
-> *(Se queres a paz, prepara-te para a guerra.)*
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-### 🖥️ Sistemas Operacionais
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+Sou profissional de **Tecnologia da Informação**, formado em **Ciência da Computação**, com atuação focada em **infraestrutura corporativa, redes, administração de sistemas, segurança da informação e automação**.
 
-### ☁️ Cloud Computing
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+Atualmente trabalho como **Analista de Suporte e Infraestrutura**, atuando na sustentação, administração, troubleshooting e evolução de ambientes corporativos.
 
-### 🔐 Segurança da Informação
-![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white)
-![Bitdefender](https://img.shields.io/badge/Bitdefender-00A1E0?style=flat-square&logo=bitdefender&logoColor=white)
+Minha rotina envolve tecnologias e serviços como:
 
-### ⚙️ Ferramentas, Automação e Linguagens
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-![ADVPL](https://img.shields.io/badge/ADVPL-003087?style=flat-square&logo=totvs&logoColor=white)
+* 🏢 **Active Directory & Windows Server**
+* ☁️ **Microsoft 365 & Azure**
+* 🔥 **Firewalls Fortinet**
+* 🌐 **Redes, VLANs, VPNs, DNS e DHCP**
+* 🐧 **Linux & Virtualização**
+* 🐳 **Docker**
+* 🔐 **Hardening & Endpoint Security**
+* ⚙️ **PowerShell & Automação**
+* 📊 **Monitoramento, inventário e documentação de infraestrutura**
 
-### 📚 Em Evolução Contínua
-- Cibersegurança Avançada (Fortinet & Microsoft Security)
-- Cloud Computing e Governança no Azure
-- Automação, Hardening e DevSecOps
-- Otimização de Performance em Ambientes Windows
+Grande parte dos meus projetos busca transformar atividades operacionais em processos **automatizados, padronizados, auditáveis e seguros**.
 
 ---
 
-## 💻 Projetos em Destaque
+## 🎯 What I Focus On
 
-Projetos focados em **automação**, **segurança**, **infraestrutura** e **eficiência operacional**, desenvolvidos para resolver problemas reais:
+```text
+Infrastructure
+├── Windows Server
+├── Active Directory
+├── Linux
+├── Virtualization
+├── Networking
+└── Microsoft 365
 
-- **🔹 Automação de Active Directory**  
-  Scripts para criação, gerenciamento e auditoria de usuários e permissões.  
-  👉 https://github.com/danielfrade/ad
+Security
+├── Fortinet
+├── Firewall & VPN
+├── Network Security
+├── Endpoint Security
+├── Hardening
+└── Access Control
 
-- **🔹 Otimização de Sistemas Windows**  
-  Hardening, performance e estabilidade em ambientes Windows.  
-  👉 https://github.com/danielfrade/windows
-
-- **🔹 Gestão de Ativos de TI**  
-  Inventário e monitoramento de ativos de rede e endpoints.  
-  👉 https://github.com/danielfrade/gestaoativo
-
-- **🔹 Relatórios Inteligentes de Recursos**  
-  Dashboards automatizados para análise de recursos em tempo real.  
-  👉 https://github.com/danielfrade/resource
-
-- **🔹 Coy Menu**  
-  Menu interativo em PowerShell para centralizar tarefas administrativas.  
-  👉 https://github.com/danielfrade/coymenu
+Automation
+├── PowerShell
+├── Infrastructure Automation
+├── Active Directory Automation
+├── System Administration
+├── Monitoring
+└── Reporting
+```
 
 ---
 
-## 📬 Conecte-se Comigo
+# 🛠️ Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vocurca)
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:vocurca@pm.me)
-✨ *Construindo soluções hoje para proteger o amanhã*  
-**Daniel Vocurca Frade • 2025**
+## 🖥️ Infrastructure & Operating Systems
+
+<p align="left">
+
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge\&logo=windows\&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge\&logo=windows\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge\&logo=proxmox\&logoColor=white)
+
+</p>
+
+---
+
+## 🌐 Networking & Security
+
+<p align="left">
+
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge\&logo=fortinet\&logoColor=white)
+![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge\&logo=ubiquiti\&logoColor=white)
+![Bitdefender](https://img.shields.io/badge/Bitdefender-ED1C24?style=for-the-badge\&logo=bitdefender\&logoColor=white)
+
+</p>
+
+`Firewall` • `VPN` • `VLAN` • `Routing` • `Switching` • `DNS` • `DHCP` • `TCP/IP` • `Wi-Fi` • `Hardening` • `Endpoint Security`
+
+---
+
+## ☁️ Microsoft & Cloud
+
+<p align="left">
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge\&logo=microsoft\&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-038387?style=for-the-badge\&logo=microsoftsharepoint\&logoColor=white)
+![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge\&logo=microsoftteams\&logoColor=white)
+
+</p>
+
+`Active Directory` • `Microsoft 365` • `Azure` • `Exchange Online` • `SharePoint` • `Microsoft Teams`
+
+---
+
+## ⚙️ Automation & Tools
+
+<p align="left">
+
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+</p>
+
+### ⚡ PowerShell
+
+PowerShell é minha principal ferramenta para **automação e administração de infraestrutura**.
+
+Utilizo scripts para:
+
+* Provisionamento e gerenciamento de usuários
+* Administração de Active Directory
+* Auditoria de contas e permissões
+* Inventário de computadores
+* Diagnóstico de sistemas Windows
+* Troubleshooting de rede
+* Automação de tarefas administrativas
+* Monitoramento de recursos
+* Geração de relatórios
+* Padronização de ambientes
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Active Directory Automation
+
+Automação para administração de ambientes **Active Directory utilizando PowerShell**.
+
+Principais recursos:
+
+* criação de usuários
+* ativação e desativação de contas
+* reset e desbloqueio de senhas
+* gerenciamento de grupos
+* movimentação entre OUs
+* relatórios administrativos
+
+🔗 **[github.com/danielfrade/ad](https://github.com/danielfrade/ad)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ Windows Optimization
+
+Scripts em **PowerShell** voltados para administração, diagnóstico e otimização do Windows.
+
+Inclui:
+
+* diagnóstico do sistema
+* manutenção automatizada
+* ajustes de desempenho
+* gerenciamento de serviços
+* limpeza do sistema
+* SFC / DISM
+
+🔗 **[github.com/danielfrade/windows](https://github.com/danielfrade/windows)**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ IT Asset Management
+
+Automação para inventário e gerenciamento de ativos integrados ao **Active Directory**.
+
+Recursos:
+
+* inventário por setor
+* identificação de dispositivos
+* análise de usuários inativos
+* associação usuário/equipamento
+* geração de relatórios CSV
+
+🔗 **[github.com/danielfrade/gestaoativo](https://github.com/danielfrade/gestaoativo)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 Resource Manager
+
+Ferramenta em **PowerShell** para monitoramento e análise de recursos do Windows.
+
+Monitora:
+
+* CPU
+* memória
+* disco
+* processos
+* utilização do sistema
+
+Também permite gerar relatórios automatizados em HTML.
+
+🔗 **[github.com/danielfrade/resource](https://github.com/danielfrade/resource)**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🩺 System Health Manager
+
+Projeto em PowerShell que centraliza tarefas de **monitoramento, diagnóstico e administração de sistemas Windows**.
+
+Principais recursos:
+
+```text
+System Health Manager
+│
+├── CPU Monitoring
+├── Memory Monitoring
+├── Disk Monitoring
+├── Network Diagnostics
+├── Process Analysis
+├── System Cleanup
+├── Configuration Backup
+└── Reports
+```
+
+🔗 **[github.com/danielfrade/coymenu](https://github.com/danielfrade/coymenu)**
+
+---
+
+# 📚 Currently Improving
+
+Estou constantemente aprofundando conhecimentos em:
+
+### 🔐 Cybersecurity
+
+* Network Security
+* Fortinet
+* Microsoft Security
+* Hardening
+* Zero Trust
+* Endpoint Security
+
+### 🏢 Infrastructure
+
+* Windows Server
+* Active Directory
+* Linux
+* Virtualização
+* Redes corporativas
+* Cloud Computing
+
+### ⚙️ Automation
+
+* PowerShell
+* Infrastructure as Code
+* Administração automatizada
+* Docker
+* DevSecOps
+* Observabilidade
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=danielfrade&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielfrade&layout=compact&hide_border=true&theme=github_dark" />
+
+</div>
+
+> **Nota:** As estatísticas são geradas por um serviço externo e podem ficar temporariamente indisponíveis.
+
+---
+
+# 🧠 Professional Mindset
+
+```text
+$ philosophy
+
+[+] Automate repetitive tasks
+[+] Standardize infrastructure
+[+] Reduce operational complexity
+[+] Secure critical services
+[+] Document everything important
+[+] Troubleshoot before guessing
+[+] Keep learning
+```
+
+---
+
+<div align="center">
+
+## 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Vocurca%20Frade-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vocurca)
+
+[![Email](https://img.shields.io/badge/ProtonMail-vocurca%40pm.me-6D4AFF?style=for-the-badge\&logo=protonmail\&logoColor=white)](mailto:vocurca@pm.me)
+
+<br>
+
+### ⚙️ Automate • 🔐 Secure • 🚀 Evolve
+
+*"Construindo soluções hoje para tornar a infraestrutura de amanhã mais segura, eficiente e confiável."*
+
+<br>
+
+**Daniel Vocurca Frade**
+
+</div>
